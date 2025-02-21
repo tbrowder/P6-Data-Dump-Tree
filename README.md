@@ -1,6 +1,6 @@
-# Data::Dump::Tree
+[![Actions Status](https://github.com/nkh/P6-Data-Dump-Tree/actions/workflows/linux.yml/badge.svg)](https://github.com/nkh/P6-Data-Dump-Tree/actions) [![Actions Status](https://github.com/nkh/P6-Data-Dump-Tree/actions/workflows/macos.yml/badge.svg)](https://github.com/nkh/P6-Data-Dump-Tree/actions) [![Actions Status](https://github.com/nkh/P6-Data-Dump-Tree/actions/workflows/windows.yml/badge.svg)](https://github.com/nkh/P6-Data-Dump-Tree/actions)
 
-[![Build Status](https://travis-ci.org/nkh/P6-Data-Dump-Tree.svg?branch=release)](https://travis-ci.org/nkh/P6-Data-Dump-Tree)
+# Data::Dump::Tree
 
 ## For perl6
 
